@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bảng giá dịch vụ | Đất Cảng Agency</title>
+<meta name="description" content="Chọn dịch vụ marketing của Đất Cảng Agency, xem bạn nhận được gì ở từng gói, xem video tham khảo và nhận ngay giá tạm tính.">
+<meta name="color-scheme" content="light">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Bỏ qua, đến nội dung</a>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="./" aria-label="Đất Cảng Agency"><img src="assets/img/bieu-tuong-dat-cang-512.png" alt="" width="40" height="40"><span class="bn"><b>ĐẤT CẢNG</b><small>agency</small></span></a>
+  <button class="cart-btn" id="cartBtn" type="button" aria-controls="cart"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l-1 12H6z"/><path d="M9 8a3 3 0 016 0"/></svg><span>Giỏ hàng</span><b id="cartCount">0</b></button>
+</div></header>
+<section class="hero"><div class="wrap hero-in">
+  <div class="hero-tx">
+    <p class="eyebrow">Giải pháp marketing</p>
+    <h1>Chọn dịch vụ, xem bạn nhận được gì, có ngay giá tạm tính</h1>
+    <p class="lead">Mỗi dịch vụ ghi rõ bạn nhận được những gì. Bấm vào từng nhóm, xem video tham khảo, chọn gói phù hợp rồi cho vào giỏ hàng. Trang chạy ngay trên máy của bạn, không lưu và không gửi thông tin đi đâu.</p>
+  </div>
+  <img class="hero-logo" src="assets/img/logo-dat-cang-800.png" alt="Đất Cảng Agency — Giải pháp marketing" width="260" height="274">
+</div></section>
+<nav class="tabs" aria-label="Nhóm dịch vụ"><div class="wrap"><div class="tabs-in" id="tabs" role="tablist"></div>
+  <div class="tabmenu" id="tabMenu"></div></div></nav>
+<div class="wrap layout" id="main">
+  <main class="content">
+    <div id="shared" class="shared" hidden></div>
+    <section id="panel" aria-live="polite"></section>
+    <section class="block" id="feesBox"></section>
+    <section class="block"><h2 class="h2">Điều kiện áp dụng</h2><dl class="cond" id="cond"></dl></section>
+  </main>
+  <aside class="cart" id="cart" aria-label="Giỏ hàng">
+    <button class="cart-bar" id="cartBar" type="button" aria-expanded="false" aria-controls="cartBody">
+      <span>Giỏ hàng <b id="barCount"></b></span><span class="bar-total" id="barTotal">0đ</span>
+    </button>
+    <div class="cart-body" id="cartBody"></div>
+  </aside>
+</div>
+<footer class="foot"><div class="wrap" id="foot"></div></footer>
+<div id="printArea" aria-hidden="true"></div>
+<script src="assets/config.js"></script>
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
