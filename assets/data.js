@@ -1,7 +1,7 @@
 /* Dữ liệu bảng giá Đất Cảng V6.1 — sinh tự động từ danh mục chuẩn, không sửa tay. */
 window.PRICE_DATA = {
  "version": "V6.1",
- "date": "05/11/2026",
+ "date": "06/11/2026",
  "vat": 0.08,
  "lines": [
   {
@@ -240,10 +240,7 @@ window.PRICE_DATA = {
      "vids": []
     }
    ],
-   "contacts": [
-    "Fanpage Khởi điểm: 12 bài/tháng",
-    "Quản trị YouTube"
-   ],
+   "contacts": [],
    "tops": [
     {
      "id": "ADS-SEED-001",
