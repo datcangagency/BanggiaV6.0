@@ -2140,7 +2140,7 @@ window.PRICE_DATA = {
    "bens": [
     "Đất Cảng tư vấn theo mục tiêu và ngân sách của bạn",
     "Báo giá rõ phạm vi sau khi trao đổi",
-    "Quản lý quảng cáo tính theo ngân sách thực chạy"
+    "Quản lý quảng cáo: 10% ngân sách thực chạy, tối thiểu 500.000đ mỗi tháng"
    ],
    "when": [
     "Bạn cần SEO hoặc tối ưu hiển thị trên công cụ AI",
@@ -2157,7 +2157,7 @@ window.PRICE_DATA = {
    "tops": [],
    "ext": [],
    "info": [
-    "Quản lý quảng cáo: 10% ngân sách thực chạy"
+    "Quản lý quảng cáo: 10% ngân sách thực chạy, tối thiểu 500.000đ/tháng"
    ]
   }
  ],
@@ -2182,11 +2182,15 @@ window.PRICE_DATA = {
   },
   {
    "k": "Gói hằng tháng",
-   "v": "Gói nội dung và quản trị kênh thanh toán theo tháng; gói 1 tháng thanh toán 100% ngay sau khi ký."
+   "v": "Gói nội dung và quản trị kênh thanh toán theo thời gian hợp đồng. Dưới 3 tháng (kể cả gói 1 tháng): thanh toán 100% ngay sau khi ký. Từ 3 tháng trở lên: chia 2 lần, 50% khi ký hợp đồng và 50% vào giữa kỳ hợp đồng."
   },
   {
    "k": "Bảo trì website",
    "v": "Ký tối thiểu 6 tháng (6 × 500.000đ); thu 50% đầu tháng 1 và 50% đầu tháng 3; sau đó gia hạn theo tháng, trả trước. Tên miền và hosting trả trước theo năm."
+  },
+  {
+   "k": "Quản lý quảng cáo",
+   "v": "Phí quản lý bằng 10% ngân sách quảng cáo thực chạy, tối thiểu 500.000đ mỗi tháng. Ngân sách quảng cáo khách trả trực tiếp cho nền tảng, không tính vào phí quản lý."
   },
   {
    "k": "Nghiệm thu từng phần",
