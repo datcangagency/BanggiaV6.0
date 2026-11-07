@@ -147,16 +147,16 @@ window.PRICE_DATA = {
     },
     {
      "id": "PROMO-11A",
-     "name": "Khuyến mãi tháng 11: 18 bài + 5 video/tháng",
+     "name": "Khuyến mãi tháng 11: 18 bài + 3 video/tháng",
      "price": 6500000,
      "from": false,
      "unit": "tháng",
      "kind": "alt",
      "promo": true,
-     "sum": "Giá ưu đãi tháng 11 cho bạn cả bài viết và video short: 18 bài và tối đa 5 video.",
+     "sum": "Giá ưu đãi tháng 11 cho bạn cả bài viết và video short: 18 bài và tối đa 3 video.",
      "gets": [
       "18 bài mỗi tháng, đã viết, thiết kế và đăng",
-      "Tối đa 5 video short mỗi tháng theo phạm vi đã thống nhất",
+      "Tối đa 3 video short mỗi tháng theo phạm vi đã thống nhất",
       "Kế hoạch nội dung hằng tháng và báo cáo cuối kỳ"
      ],
      "inc": [
@@ -165,7 +165,7 @@ window.PRICE_DATA = {
       "Sản xuất video short theo phạm vi đã thống nhất",
       "Báo cáo cuối kỳ"
      ],
-     "out": "18 bài/tháng + tối đa 5 video short/tháng",
+     "out": "18 bài/tháng + tối đa 3 video short/tháng",
      "ex": [
       "Trực page, chạy quảng cáo, KOC"
      ],
@@ -178,16 +178,16 @@ window.PRICE_DATA = {
     },
     {
      "id": "PROMO-11B",
-     "name": "Khuyến mãi tháng 11: 21 bài + 7 video/tháng",
+     "name": "Khuyến mãi tháng 11: 21 bài + 5 video/tháng",
      "price": 9500000,
      "from": false,
      "unit": "tháng",
      "kind": "alt",
      "promo": true,
-     "sum": "Giá ưu đãi tháng 11: 21 bài và tối đa 7 video short mỗi tháng.",
+     "sum": "Giá ưu đãi tháng 11: 21 bài và tối đa 5 video short mỗi tháng.",
      "gets": [
       "21 bài mỗi tháng, đã viết, thiết kế và đăng",
-      "Tối đa 7 video short mỗi tháng theo phạm vi đã thống nhất",
+      "Tối đa 5 video short mỗi tháng theo phạm vi đã thống nhất",
       "Kế hoạch nội dung hằng tháng và báo cáo cuối kỳ"
      ],
      "inc": [
@@ -196,7 +196,7 @@ window.PRICE_DATA = {
       "Sản xuất video short theo phạm vi đã thống nhất",
       "Báo cáo cuối kỳ"
      ],
-     "out": "21 bài/tháng + tối đa 7 video short/tháng",
+     "out": "21 bài/tháng + tối đa 5 video short/tháng",
      "ex": [
       "Trực page, chạy quảng cáo, KOC"
      ],
