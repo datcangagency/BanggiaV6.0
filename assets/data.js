@@ -2182,7 +2182,7 @@ window.PRICE_DATA = {
   },
   {
    "k": "Gói hằng tháng",
-   "v": "Gói nội dung và quản trị kênh thanh toán theo thời gian hợp đồng. Dưới 3 tháng (kể cả gói 1 tháng): thanh toán 100% ngay sau khi ký. Từ 3 tháng trở lên: chia 2 lần, 50% khi ký hợp đồng và 50% vào giữa kỳ hợp đồng."
+   "v": "Gói nội dung và quản trị kênh thanh toán theo thời gian hợp đồng. Dưới 3 tháng (kể cả gói 1 tháng): thanh toán 100% ngay sau khi ký. Từ 4 tháng trở lên: chia 2 lần, 50% khi ký hợp đồng và 50% vào giữa kỳ hợp đồng."
   },
   {
    "k": "Bảo trì website",
